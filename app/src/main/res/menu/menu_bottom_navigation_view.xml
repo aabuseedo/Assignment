@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/news_item"
+        android:icon="@drawable/news_icon"
+        android:title="News" />
+    <item
+        android:id="@+id/location_item"
+        android:icon="@drawable/location_icon"
+        android:title="Location" />
+    <item
+        android:id="@+id/music_item"
+        android:icon="@drawable/music_icon"
+        android:title="Music" />
+    <item
+        android:id="@+id/favorites_item"
+        android:icon="@drawable/heart_icon"
+        android:title="Favorites" />
+</menu>
